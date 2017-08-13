@@ -18,5 +18,3 @@ I am aware of the misuse of the esp register, but compiled binaries work so I se
 [sys_rename](http://man7.org/linux/man-pages/man2/rename.2.html)
 
 [sys_exit](http://man7.org/linux/man-pages/man2/exit.2.html)
-
-
